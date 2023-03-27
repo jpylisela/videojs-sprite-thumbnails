@@ -1,6 +1,6 @@
 {
   "name": "videojs-sprite-thumbnails",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Plugin to display thumbnails from a sprite image when hovering over the progress bar.",
   "repository": {
     "type": "git",
@@ -75,7 +75,7 @@
   },
   "dependencies": {
     "global": "^4.4.0",
-    "video.js": "^6 || ^7"
+    "video.js": "^6 || ^7 || ^8"
   },
   "devDependencies": {
     "@babel/runtime": "^7.14.0",
